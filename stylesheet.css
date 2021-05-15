@@ -64,21 +64,10 @@ h4 {
 	font-family: Arial, Helvetica, sans-serif;
 }
 .text {
-	padding: 10vh;
+	padding-top: 6vh;
+	padding-left: 7vh;
 }
 
 .scroll {
 	background-image: url(./images/books_1.png);
-	overflow: hidden;
-}
-
-.container-2 {
-	display: flex;
-	justify-content: center;
-	overflow: hidden;
-}
-.child {
-	margin: 9vh;
-	padding-left: 6vh;
-	justify-content: left;
 }
