@@ -69,4 +69,5 @@ h4 {
 
 .scroll {
 	background-image: url(./images/books_1.png);
+	position: relative;
 }
